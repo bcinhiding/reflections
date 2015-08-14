@@ -20,6 +20,9 @@ Branches are a good way to maintaining logical splits in the program.
 
 How do the diagrams help you visualize the branch structure?
 
+The diagrams show the parent of each node (commit) and help you determine which
+commits belong to each branch and if any are detached.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
