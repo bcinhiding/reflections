@@ -26,5 +26,7 @@ commits belong to each branch and if any are detached.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The merge combines two branches, retaining the code that was added in each branch.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
